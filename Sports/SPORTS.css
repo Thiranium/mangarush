@@ -1,0 +1,270 @@
+@font-face {
+    font-family: Road;
+    src: url(/fonts/Road_Rage.otf);
+  }
+
+  .mangah{
+   color: red;
+   text-align: center;
+   font-size: 23px;
+   width: 750px;
+   text-align:  center; 
+  font-family: Road;
+  background: linear-gradient(red, orange, yellow );
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text; 
+  background-clip: text;
+  }
+  .action{
+    color: white;
+    font-size: 35px;
+    margin-left: 40px;
+  }
+  hr {
+    height:1px;
+    border-width:0;
+    color:gray;
+    background-color:gray;
+    margin-top: 14px;
+    margin-bottom: 15px;
+  }
+
+  .hr-aoashi {
+    height:1px;
+    border-width:0;
+    color:gray;
+    background-color:gray;
+    margin-top: 27px;
+    margin-bottom: 15px;
+  }
+
+  .div{
+    box-shadow: 0 0  6px rgba(188, 207, 18, 0.952);
+    width: 138px;
+    height: 194px;
+    border-width: 2px;
+    border-color: gray;
+   float: left; 
+   margin-right: 20px;
+  
+  
+  }
+  .img{
+    height: 194px;
+    width: 138px; 
+   
+  }
+  .img-aoashi{
+    height: 194px;
+    width: 138px; 
+    object-fit: cover;
+   
+  }
+  
+  .head{
+    color: white;
+    display: inline;
+    float: inline-end;
+    margin-right: 984px;
+    margin-left: -20px;
+    font-size: 17px;
+    margin-top: 2px;
+    font-family: Verdana;
+    font-weight: bold; 
+  }
+  .desc{
+    color: white;
+    display: inline; 
+    margin-left: 2px;
+  
+  }
+  .desc-div{
+    margin-left: 29px;
+    display: block;
+  margin-right:100px;
+    color: rgb(173, 166, 166);
+    font-family: Verdana;
+    font-size: 14px;
+  }
+  .read{
+    margin-top: 6px;
+    width: 149px;
+    height: 35px; 
+    background-color: rgb(251, 255, 0);
+    color: black;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial;
+    cursor: pointer;
+    padding-top: 2px;
+    transition:.3s;  
+  }
+  .read-aoashi:hover{
+    opacity: .6;
+  }
+  .read-kuroko:hover{
+    opacity: .6;
+  }
+  .read-haikyu:hover{
+    opacity: .6;
+  }
+  .read-diamond:hover{
+    opacity: .6;
+  }
+  .read-hajime:hover{
+    opacity: .6;
+  }
+
+  .read-aoashi{
+    margin-top: 21px;
+    width: 149px;
+    height: 35px; 
+    background-color: rgb(251, 255, 0);
+    color: black;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial;
+    cursor: pointer;
+    padding-top: 2px;
+    transition:.3s;  
+  }
+  .read-kuroko{
+    margin-top: -6px;
+    width: 149px;
+    height: 35px; 
+    background-color: rgb(251, 255, 0);
+    color: black;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial;
+    cursor: pointer;
+    padding-top: 2px;
+    transition:.3s;  
+  }
+  .read-haikyu{
+    margin-top:6px;
+    width: 149px;
+    height: 35px; 
+    background-color: rgb(251, 255, 0);
+    color: black;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial;
+    cursor: pointer;
+    padding-top: 2px;
+    transition:.3s;  
+  }
+  .read-diamond{
+    margin-top: 23px;
+    width: 149px;
+    height: 35px; 
+    background-color: rgb(251, 255, 0);
+    color: black;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial;
+    cursor: pointer;
+    padding-top: 2px;
+    transition:.3s;  
+  }
+  .read-hajime{
+    margin-top: 6px;
+    width: 149px;
+    height: 35px; 
+    background-color: rgb(251, 255, 0);
+    color: black;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial;
+    cursor: pointer;
+    padding-top: 2px;
+    transition:.3s;  
+  }
+
+  .head-aoashi{
+    width: 100%;
+    max-width: 72px;
+    color: white;
+    display: inline;
+    float: inline-end;
+    margin-right: 1073px;
+    margin-left: -20px;
+    font-size: 17px;
+    margin-top: 2px;
+    font-family: Verdana;
+    font-weight: bold; 
+   
+  }
+
+  .head-kuroko{
+    width: 100%;
+    max-width: 69px;
+    color: white;
+    display: inline;
+    float: inline-end;
+    margin-right: 1077px;
+    margin-left: -20px;
+    font-size: 17px;
+    margin-top: 2px;
+    font-family: Verdana;
+    font-weight: bold; 
+  }
+  .head-diamond{
+    width: 100%;
+    max-width: 150px;
+    color: white;
+    display: inline;
+    float: inline-end;
+    margin-right: 996px;
+    margin-left: -20px;
+    font-size: 17px;
+    margin-top: 2px;
+    font-family: Verdana;
+    font-weight: bold; 
+  }
+  .head-haikyu{
+    width: 100%;
+    max-width: 80px;
+    color: white;
+    display: inline;
+    float: inline-end;
+    margin-right: 1067px;
+    margin-left: -20px;
+    font-size: 17px;
+    margin-top: 2px;
+    font-family: Verdana;
+    font-weight: bold; 
+  }
+
+
+  .head-hajime{
+    width: 100%;
+    max-width: 150px;
+    color: white;
+    display: inline;
+    float: inline-end;
+    margin-right: 997px;
+    margin-left: -20px;
+    font-size: 17px;
+    margin-top: 2px;
+    font-family: Verdana;
+    font-weight: bold; 
+  }

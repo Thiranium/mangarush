@@ -1,0 +1,270 @@
+@font-face {
+  font-family: Road;
+  src: url(/fonts/Road_Rage.otf);
+}
+
+.mangah{
+ color: red;
+ text-align: center;
+ font-size: 23px;
+ width: 750px;
+ text-align:  center; 
+font-family: Road;
+background: linear-gradient(red, orange, yellow );
+-webkit-text-fill-color: transparent;
+-webkit-background-clip: text; 
+background-clip: text;
+}
+.action{
+  color: white;
+  font-size: 35px;
+  margin-left: 40px;
+}
+hr {
+  height:1px;
+  border-width:0;
+  color:gray;
+  background-color:gray;
+  margin-top: 14px;
+  margin-bottom: 15px;
+}
+
+.hr-spy {
+  height:1px;
+  border-width:0;
+  color:gray;
+  background-color:gray;
+  margin-top: 27px;
+  margin-bottom: 15px;
+}
+
+.div{
+  box-shadow: 0 0  6px rgba(188, 207, 18, 0.952);
+  width: 138px;
+  height: 194px;
+  border-width: 2px;
+  border-color: gray;
+ float: left; 
+ margin-right: 20px;
+
+
+}
+.img{
+  height: 194px;
+  width: 138px; 
+ 
+}
+.img-spy{
+  height: 194px;
+  width: 138px; 
+  object-fit: cover;
+ 
+}
+
+.head{
+  color: white;
+  display: inline;
+  float: inline-end;
+  margin-right: 984px;
+  margin-left: -20px;
+  font-size: 17px;
+  margin-top: 2px;
+  font-family: Verdana;
+  font-weight: bold; 
+}
+.desc{
+  color: white;
+  display: inline; 
+  margin-left: 2px;
+
+}
+.desc-div{
+  margin-left: 29px;
+  display: block;
+margin-right:100px;
+  color: rgb(173, 166, 166);
+  font-family: Verdana;
+  font-size: 14px;
+}
+.read{
+  margin-top: 6px;
+  width: 149px;
+  height: 35px; 
+  background-color: rgb(251, 255, 0);
+  color: black;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 2px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial;
+  cursor: pointer;
+  padding-top: 2px;
+  transition:.3s;  
+}
+.read-spy:hover{
+  opacity: .6;
+}
+.read-gintama:hover{
+  opacity: .6;
+}
+.read-relife:hover{
+  opacity: .6;
+}
+.read-classroom:hover{
+  opacity: .6;
+}
+.read-beelzebub:hover{
+  opacity: .6;
+}
+
+.read-spy{
+  margin-top: 23px;
+  width: 149px;
+  height: 35px; 
+  background-color: rgb(251, 255, 0);
+  color: black;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 2px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial;
+  cursor: pointer;
+  padding-top: 2px;
+  transition:.3s;  
+}
+.read-gintama{
+  margin-top: 24px;
+  width: 149px;
+  height: 35px; 
+  background-color: rgb(251, 255, 0);
+  color: black;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 2px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial;
+  cursor: pointer;
+  padding-top: 2px;
+  transition:.3s;  
+}
+.read-relife{
+  margin-top:23px;
+  width: 149px;
+  height: 35px; 
+  background-color: rgb(251, 255, 0);
+  color: black;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 2px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial;
+  cursor: pointer;
+  padding-top: 2px;
+  transition:.3s;  
+}
+.read-classroom{
+  margin-top: 23px;
+  width: 149px;
+  height: 35px; 
+  background-color: rgb(251, 255, 0);
+  color: black;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 2px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial;
+  cursor: pointer;
+  padding-top: 2px;
+  transition:.3s;  
+}
+.read-beelzebub{
+  margin-top: 6px;
+  width: 149px;
+  height: 35px; 
+  background-color: rgb(251, 255, 0);
+  color: black;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 2px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial;
+  cursor: pointer;
+  padding-top: 2px;
+  transition:.3s;  
+}
+
+.head-spy{
+ 
+
+  color: white;
+  display: inline;
+  float: inline-end;
+  margin-right: 1025px;
+  margin-left: -20px;
+  font-size: 17px;
+  margin-top: 2px;
+  font-family: Verdana;
+  font-weight: bold; 
+ 
+}
+
+.head-gintama{
+  
+
+  color: white;
+  display: inline;
+  float: inline-end;
+  margin-right: 1065px;
+  margin-left: -20px;
+  font-size: 17px;
+  margin-top: 2px;
+  font-family: Verdana;
+  font-weight: bold; 
+}
+.head-classroom{
+
+
+  color: white;
+  display: inline;
+  float: inline-end;
+  margin-right: 920px;
+  margin-left: -20px;
+  font-size: 17px;
+  margin-top: 2px;
+  font-family: Verdana;
+  font-weight: bold; 
+}
+.head-relife{
+ 
+
+  color: white;
+  display: inline;
+  float: inline-end;
+  margin-right: 1087px;
+  margin-left: -20px;
+  font-size: 17px;
+  margin-top: 2px;
+  font-family: Verdana;
+  font-weight: bold; 
+}
+
+
+.head-beelzebub{
+
+ 
+  color: white;
+  display: inline;
+  float: inline-end;
+  margin-right: 1047px;
+  margin-left: -20px;
+  font-size: 17px;
+  margin-top: 2px;
+  font-family: Verdana;
+  font-weight: bold; 
+}

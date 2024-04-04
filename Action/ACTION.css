@@ -1,0 +1,265 @@
+@font-face {
+  font-family: Road;
+  src: url(/fonts/Road_Rage.otf);
+}
+.manga{
+  font-family: Road;
+}
+.mangah{
+ color: red;
+ text-align: center;
+ font-size: 23px;
+ width: 750px;
+ text-align:  center; 
+font-family: Road;
+background: linear-gradient(red, orange, yellow );
+-webkit-text-fill-color: transparent;
+-webkit-background-clip: text; 
+background-clip: text;
+}
+.action{
+  color: white;
+  font-size: 35px;
+  margin-left: 40px;
+}
+hr {
+  height:1px;
+  border-width:0;
+  color:gray;
+  background-color:gray;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.div{
+  box-shadow: 0 0  6px rgba(255, 51, 0, 0.952);
+  width: 138px;
+  height: 194px;
+  border-width: 2px;
+  border-color: gray;
+ float: left; 
+ margin-right: 20px;
+
+}
+
+.desc{
+  color: white;
+  display: inline; 
+  margin-left: 2px;
+
+}
+.desc-div{
+  width: 100%;
+  max-width: 1240px;
+  margin-left: 29px;
+  display: block;
+  margin-right:100px;
+  color: rgb(173, 166, 166);
+  font-family: Verdana;
+  font-size: 14px;
+}
+.tokyo-img{
+  height: 194px;
+  width: 138px; 
+}
+
+.tokyo-head{
+  width: 100%;
+  max-width: 164px;
+  color: white;
+  display: inline;
+  float: inline-end;
+  margin-right: 984px;
+  margin-left: -20px;
+  font-size: 17px;
+  margin-top: 2px;
+  font-family: Verdana;
+  font-weight: bold; 
+}
+.tokyo-read{
+  margin-top: 6px;
+  width: 149px;
+  height: 35px; 
+  background-color: rgb(251, 255, 0);
+  color: black;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 2px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial;
+  cursor: pointer;
+  padding-top: 2px;
+  transition:.3s;  
+}
+.tokyo-read:hover{
+  opacity: .6;
+}
+
+
+.aot-img{
+  height: 194px;
+  width: 138px; 
+  object-fit: cover;
+}
+
+.aot-head{
+  width: 100%;
+  max-width: 149px;
+  color: white;
+  display: inline;
+  float: inline-end;
+  margin-right: 1000px;
+  margin-left: -20px;
+  font-size: 17px;
+  margin-top: 2px;
+  font-family: Verdana;
+  font-weight: bold;
+  
+}
+
+.aot-read{
+  margin-top: 6px;
+  width: 149px;
+  height: 35px; 
+  background-color: rgb(251, 255, 0);
+  color: black;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 2px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial;
+  cursor: pointer;
+  padding-top: 2px;
+  transition:.3s;  
+}
+.aot-read:hover{
+  opacity: .6;
+}
+
+
+.black-img{
+  height: 194px;
+  width: 138px; 
+  object-fit: cover;
+}
+
+.black-head{
+  width: 100%;
+  max-width: 118px;
+  color: white;
+  display: inline;
+  float: inline-end;
+  margin-right: 1028px;
+  margin-left: -20px;
+  font-size: 17px;
+  margin-top: 2px;
+  font-family: Verdana;
+  font-weight: bold;
+  
+}
+
+.black-read{
+  margin-top: 23px;
+  width: 149px;
+  height: 35px; 
+  background-color: rgb(251, 255, 0);
+  color: black;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 2px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial;
+  cursor: pointer;
+  padding-top: 2px;
+  transition:.3s;  
+}
+.black-read:hover{
+  opacity: .6;
+}
+
+
+.dbz-img{
+  height: 194px;
+  width: 138px; 
+  object-fit: cover;
+}
+
+.dbz-head{
+  width: 100%;
+  max-width: 173px;
+  color: white;
+  display: inline;
+  float: inline-end;
+  margin-right: 975px;
+  margin-left: -20px;
+  font-size: 17px;
+  margin-top: 2px;
+  font-family: Verdana;
+  font-weight: bold;
+  
+}
+
+.dbz-read{
+  margin-top: 23px;
+  width: 149px;
+  height: 35px; 
+  background-color: rgb(251, 255, 0);
+  color: black;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 2px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial;
+  cursor: pointer;
+  padding-top: 2px;
+  transition:.3s;  
+}
+.dbz-read:hover{
+  opacity: .6;
+}
+
+
+.ds-img{
+  height: 194px;
+  width: 138px; 
+ 
+}
+
+.ds-head{
+  margin-top: 23px;
+  width: 134px;
+  color: white;
+  display: inline;
+  float: inline-end;
+  margin-right: 1013px;
+  margin-left: -20px;
+  font-size: 17px;
+  margin-top: 2px;
+  font-family: Verdana;
+  font-weight: bold;
+  
+}
+
+.ds-read{
+  margin-top: 5px;
+  width: 149px;
+  height: 35px; 
+  background-color: rgb(251, 255, 0);
+  color: black;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 2px;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Arial;
+  cursor: pointer;
+  padding-top: 2px;
+  transition:.3s;  
+}
+.ds-read:hover{
+  opacity: .6;
+}

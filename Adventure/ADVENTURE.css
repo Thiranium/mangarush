@@ -1,0 +1,246 @@
+@font-face {
+    font-family: Road;
+    src: url(/fonts/Road_Rage.otf);
+  }
+  
+  .mangah{
+   color: red;
+   text-align: center;
+   font-size: 23px;
+   width: 750px;
+   text-align:  center; 
+  font-family: Road;
+  background: linear-gradient(red, orange, yellow );
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text; 
+  background-clip: text;
+  }
+  .action{
+    color: white;
+    font-size: 35px;
+    margin-left: 40px;
+  }
+  hr {
+    height:1px;
+    border-width:0;
+    color:gray;
+    background-color:gray;
+    margin-top: 14px;
+    margin-bottom: 15px;
+  }
+
+
+
+  .div{
+    box-shadow: 0 0  6px rgba(0, 255, 255, 0.952);
+    width: 138px;
+    height: 194px;
+    border-width: 2px;
+    border-color: gray;
+   float: left; 
+   margin-right: 20px;
+  
+  
+  }
+  .img{
+    height: 194px;
+    width: 138px; 
+   
+  }
+  
+
+  .desc{
+    color: white;
+    display: inline; 
+    margin-left: 2px;
+  
+  }
+  .desc-div{
+    margin-left: 29px;
+    display: block;
+  margin-right:100px;
+    color: rgb(173, 166, 166);
+    font-family: Verdana;
+    font-size: 14px;
+  }
+  .read{
+    margin-top: 6px;
+    width: 149px;
+    height: 35px; 
+    background-color: rgb(251, 255, 0);
+    color: black;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial;
+    cursor: pointer;
+    padding-top: 2px;
+    transition:.3s;  
+  }
+  .read-frieren:hover{
+    opacity: .6;
+  }
+  .read-vinland:hover{
+    opacity: .6;
+  }
+  .read-berserk:hover{
+    opacity: .6;
+  }
+  .read-bleach:hover{
+    opacity: .6;
+  }
+  .read-jojo:hover{
+    opacity: .6;
+  }
+
+  .read-frieren{
+    margin-top: 21px;
+    width: 149px;
+    height: 35px; 
+    background-color: rgb(251, 255, 0);
+    color: black;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial;
+    cursor: pointer;
+    padding-top: 2px;
+    transition:.3s;  
+  }
+  .read-vinland{
+    margin-top: 6px;
+    width: 149px;
+    height: 35px; 
+    background-color: rgb(251, 255, 0);
+    color: black;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial;
+    cursor: pointer;
+    padding-top: 2px;
+    transition:.3s;  
+  }
+  .read-berserk{
+    margin-top:22px;
+    width: 149px;
+    height: 35px; 
+    background-color: rgb(251, 255, 0);
+    color: black;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial;
+    cursor: pointer;
+    padding-top: 2px;
+    transition:.3s;  
+  }
+  .read-bleach{
+    margin-top: 21px;
+    width: 149px;
+    height: 35px; 
+    background-color: rgb(251, 255, 0);
+    color: black;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial;
+    cursor: pointer;
+    padding-top: 2px;
+    transition:.3s;  
+  }
+  .read-jojo{
+    margin-top: 5px;
+    width: 149px;
+    height: 35px; 
+    background-color: rgb(251, 255, 0);
+    color: black;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial;
+    cursor: pointer;
+    padding-top: 2px;
+    transition:.3s;  
+  }
+
+  .head-frieren{
+    width:100%;
+    max-width: 292px;
+    color: white;
+    display: inline;
+    float: inline-end;
+    margin-right: 855px;
+    margin-left: -20px;
+    font-size: 17px;
+    margin-top: 2px;
+    font-family: Verdana;
+    font-weight: bold; 
+   
+  }
+
+  .head-vinland{
+    width: 100%;
+    max-width: 125px;
+    color: white;
+    display: inline;
+    float: inline-end;
+    margin-right: 1022px;
+    margin-left: -20px;
+    font-size: 17px;
+    margin-top: 2px;
+    font-family: Verdana;
+    font-weight: bold; 
+  }
+  .head-berserk{
+    width:100%;
+    max-width: 75px;
+    color: white;
+    display: inline;
+    float: inline-end;
+    margin-right: 1072px;
+    margin-left: -20px;
+    font-size: 17px;
+    margin-top: 2px;
+    font-family: Verdana;
+    font-weight: bold; 
+  }
+  .head-bleach{
+    width:100%;
+    max-width: 64px;
+    color: white;
+    display: inline;
+    float: inline-end;
+    margin-right: 1083px;
+    margin-left: -20px;
+    font-size: 17px;
+    margin-top: 2px;
+    font-family: Verdana;
+    font-weight: bold; 
+  }
+
+  .head-jojo{
+    width:100%;
+    max-width: 235px;
+    color: white;
+    display: inline;
+    float: inline-end;
+    margin-right: 911px;
+    margin-left: -20px;
+    font-size: 17px;
+    margin-top: 2px;
+    font-family: Verdana;
+    font-weight: bold; 
+  }
