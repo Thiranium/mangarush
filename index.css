@@ -17,79 +17,85 @@
 
 .manga{
     color: red;
+    width: 49vw;
+    margin-left: 10vw;
 }
 .mangah{
    color: red;
    text-align: center;
-   font-size: 23px;
-   width: 750px;
+   font-size: 1.7vw;
+   width: 55vw;
    text-align:  center; 
 font-family: Road;
-background: linear-gradient(red, orange, yellow );
+background: linear-gradient(rgb(255, 0, 0), orange, yellow );
 -webkit-text-fill-color: transparent;
 background-clip: text;
    
 }
-.categ{top: 250px;
-    margin-top: 50px;
-    margin-right: 180px;
-    margin-left: 50px;
+.categ{
+  top: 18.3vw;
+    margin-top: 5vw;
+    margin-right: 1.8vw;
+    margin-left: 4.5vw;
     color: white;
     display: inline;
-    font-size: 20px;
+    font-size: 2vw;
     text-align: center;
     font-family: sans-serif;
-    font-size: 35px;
+    font-size: 2.6vw;
     color: white;
     
 
 }
 .trend{
-margin-top: 130px;
-margin-right: 640px;
-margin-left: 190px;
+margin-top: 9.5vw;
+margin-right: 46vw;
+margin-left: 13.9vw;
     color: white;
-    font-size: 30px;
+    font-size: 2.1vw;
     display: contents;
     font-family: sans-serif;
 
 }
 .trends{
-margin-top: 70px;
-margin-left:270px;
+margin-top: 5.1vw;
+margin-left:19.7vw;
 }
 .categories{
-  margin-top: -120px;
-    height: 80px;
+  margin-top: -8.7vw;
+    height: 8vw;
     float: left;
-    width: 10%;
-   padding: 10px;
-   padding-bottom: 582px;
-    padding-left: 2px;
-    padding-right:89px;
-    margin-right: 50px;
+    width: 10vw;
+   padding: 1%;
+   padding-bottom: 45vw;
+    padding-left: 0.2vw;
+    padding-right:7.3vw;
+    margin-right: 0.02vw;
     background-color: maroon;
-    border-radius: 4px ;
+    border-radius: 0.02vw;
     background: linear-gradient(rgb(48, 2, 2), rgb(218, 52, 10), rgb(224, 221, 4) );
     position: fixed;
+    max-width: 100%;
+    max-height: 100%;
 
 }
 
 .action{
-      margin-top: 70px;
-      margin-left: 10px;
-      padding-top: 12px;
-      padding-bottom: 12px;
-      padding-right: 136px;
-      border-radius: 13px;
+      margin-top: 6vw;
+      margin-left: .75vw;
+      padding-top: 0.8vw;
+      padding-bottom: 0.8vw;
+      padding-right: 10vw;
+      border-radius: 1vw;
       cursor: pointer;
       border-style: solid;
+      border-width: 0.1vw;
       border-color: rgb(209, 112, 0);
       font-weight: bold;
       color: black;
       background-color: rgb(255, 255, 255); 
       transition: .3s;
-      font-size: 16px;
+      font-size: 1.2vw;
       font-family: Arial;
       text-decoration: none;
       display: block;
@@ -109,20 +115,21 @@ margin-left:270px;
     display: block;
 }
 .comedy{
-  margin-top: 23px;
-  margin-left: 10px;
-  padding-top: 12px;
-  padding-bottom: 12px;
-  padding-right: 122px;
-  border-radius: 13px;
+  margin-top: 2vw;
+  margin-left: .75vw;
+  padding-top: 0.8vw;
+  padding-bottom: 0.8vw;
+  padding-right: 9vw;
+  border-radius: 1vw;
   cursor: pointer;
   border-style: solid;
+  border-width: 0.1vw;
   border-color: rgb(209, 112, 0);
   font-weight: bold;
   color: black;
   background-color: rgb(255, 255, 255); 
   transition: .3s;
-  font-size: 16px;
+  font-size: 1.2vw;
   font-family: Arial;
   text-decoration: none;
   display: block;
@@ -143,12 +150,13 @@ display: block;
 }
 
 .adventure{
-    margin-top: 25px;
-    margin-left: 10px;
-    padding-top: 12px;
-    padding-bottom: 12px;
-    padding-right: 107px;
-    border-radius: 13px;
+  margin-top: 2vw;
+  margin-left: .75vw;
+  padding-top: 0.8vw;
+  padding-bottom: 0.8vw;
+  padding-right: 8vw;
+  border-radius: 1vw;
+  border-width: 0.1vw;
     cursor: pointer;
     border-style: solid;
     border-color: rgb(209, 112, 0);
@@ -156,7 +164,7 @@ display: block;
     color: black;
     background-color:white; 
     transition: .3s;
-    font-size: 16px; 
+    font-size: 1.2vw; 
     text-decoration: none;
     
 }
@@ -175,12 +183,13 @@ display: block;
        display: block;
    }
 .suspense{
-    margin-top: 25px;
-    margin-left: 10px;
-    padding-top: 12px;
-    padding-bottom: 12px;
-    padding-right: 109px;
-    border-radius: 13px;
+  margin-top: 2vw;
+  margin-left: .75vw;
+  padding-top: 0.9vw;
+  padding-bottom: 0.8vw;
+  padding-right: 8vw;
+  border-radius: 1vw;
+  border-width: 0.1vw;
     cursor: pointer;
     border-style: solid;
     border-color: rgb(209, 112, 0);
@@ -188,7 +197,7 @@ display: block;
     color: black;
     background-color: white; 
     transition: .3s;
-    font-size: 16px; 
+    font-size: 1.2vw; 
    
 }
 .suspense:hover {
@@ -206,12 +215,13 @@ display: block;
        display: block;
    }
 .sports {
-    margin-top: 25px;
-    margin-left: 10px;
-    padding-top: 12px;
-    padding-bottom: 12px;
-    padding-right: 135px;
-    border-radius: 13px;
+  margin-top: 2vw;
+  margin-left: .75vw;
+  padding-top: 0.9vw;
+  padding-bottom: 0.8vw;
+  padding-right: 10vw;
+  border-radius: 1vw;
+  border-width: 0.1vw;
     cursor: pointer;
     border-style: solid;
     border-color: rgb(209, 112, 0);
@@ -219,7 +229,7 @@ display: block;
     color: black;
     background-color: white; 
     transition: .3s;
-    font-size: 16px; 
+    font-size: 1.2vw; 
     
 }
 .sports:hover {
@@ -229,28 +239,27 @@ display: block;
     
 }
 .flip-box {
-    margin-left:270px;
+    margin-left:19.7vw;
     background-color: transparent;
-    width: 163px;
-    height: 220px;
+    width:  11.9vw;
+    height: 16.1vw;
     border-width: 2px solid #f1f1f1;
     border-color: gray;
-    margin-top: 20px;
+    margin-top: 0.1vw;
     display: inline-block;
-    perspective: 1000px;
+    perspective: 73vw;
     box-shadow: 0 0  6px rgba(255, 51, 0, 0.952);
   }
 
   
   .flip-box-inner {
     position: relative;
-    width: 100%;
-    height: 100%;
+   
     text-align: center;
     transition: transform 0.8s;
     transform-style: preserve-3d;
-     width: 163px;
-    height: 220px;
+    width:  11.9vw;
+    height: 16.1vw;
   }
   
   .flip-box:hover .flip-box-inner {
@@ -260,8 +269,8 @@ display: block;
   
   .flip-box-front, .flip-box-back {
     position: absolute;
-    width: 100%;
-    height: 100%;
+    width:  11.9vw;
+    height: 16.1vw;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 
@@ -278,40 +287,39 @@ display: block;
     transform: rotateY(180deg);
   }
   .onepiece-img{
-    width: 163px;
-    height: 220px;
+    width:  11.9vw;
+    height: 16.1vw;
   }
   .onepiece-back{
-    width: 163px;
-    height: 220px;
+    width:  11.9vw;
+    height: 16.1vw;
     object-fit: cover;
-    margin-bottom: -50px;
+    margin-bottom: -3.6vw;
   }
 
 
 
   .flip-box-bluelock {
-    margin-left: 75px;
+    margin-left:5.49vw;
     background-color: transparent;
-    width: 163px;
-    height: 220px;
+    width:  11.9vw;
+    height: 16.1vw;
     border-width: 2px solid #f1f1f1;
     border-color: gray;
-    margin-top: 20px;
+    margin-top: 0.1vw;
     display: inline-block;
-    perspective: 1000px;
+    perspective: 73vw;
     box-shadow: 0 0  6px rgba(7, 156, 243, 0.952);
   }
   
   .flip-box-inner-bluelock {
     position: relative;
-    width: 100%;
-    height: 100%;
+   
     text-align: center;
     transition: transform 0.8s;
     transform-style: preserve-3d;
-     width: 163px;
-    height: 220px;
+    width:  11.9vw;
+    height: 16.1vw;
   }
   
   .flip-box-bluelock:hover .flip-box-inner-bluelock {
@@ -341,39 +349,38 @@ display: block;
 
  
   .bluelock-img{
-    width: 163px;
-    height: 220px;
+    width:  11.9vw;
+    height: 16.1vw;
   }
   .bluelock-back{
-    width: 163px;
-    height: 220px;
+    width:  11.9vw;
+    height: 16.1vw;
     object-fit: cover;
-    margin-bottom: -50px;
+    margin-bottom: -3.6vw;
   }
 
 
   .flip-box-opm {
-    margin-left: 75px;
+    margin-left:5.49vw;
     background-color: transparent;
-    width: 163px;
-    height: 220px;
+    width:  11.9vw;
+    height: 16.1vw;
     border-width: 2px solid #f1f1f1;
     border-color: gray;
-    margin-top: 20px;
+    margin-top: 0.1vw;
     display: inline-block;
-    perspective: 1000px;
+    perspective: 73vw;
     box-shadow: 0 0  6px rgba(131, 103, 10, 0.952);
   }
   
   .flip-box-inner-opm {
     position: relative;
-    width: 100%;
-    height: 100%;
+   
     text-align: center;
     transition: transform 0.8s;
     transform-style: preserve-3d;
-     width: 163px;
-    height: 220px;
+    width:  11.9vw;
+    height: 16.1vw;
   }
   
   .flip-box-opm:hover .flip-box-inner-opm {
@@ -403,39 +410,38 @@ display: block;
 
  
   .opm-img{
-    width: 163px;
-    height: 220px;
+    width:  11.9vw;
+    height: 16.1vw;
   }
 
   .opm-back{
-    width: 163px;
-    height: 220px;
+    width:  11.9vw;
+    height: 16.1vw;
     object-fit: cover;
-    margin-bottom: -50px;
+    margin-bottom: -3.6vw;
   }
 
   .flip-box-csm {
-    margin-left: 75px;
+    margin-left:5.49vw;
     background-color: transparent;
-    width: 163px;
-    height: 220px;
+    width:  11.9vw;
+    height: 16.1vw;
     border-width: 2px solid #f1f1f1;
     border-color: gray;
-    margin-top: 20px;
+    margin-top: 0.1vw;
     display: inline-block;
-    perspective: 1000px;
+    perspective: 73vw;
     box-shadow: 0 0  6px rgba(255, 51, 0, 0.952);
   }
   
   .flip-box-inner-csm {
     position: relative;
-    width: 100%;
-    height: 100%;
+   
     text-align: center;
     transition: transform 0.8s;
     transform-style: preserve-3d;
-     width: 163px;
-    height: 220px;
+    width:  11.9vw;
+    height: 16.1vw;
   }
   
   .flip-box-csm:hover .flip-box-inner-csm {
@@ -465,91 +471,98 @@ display: block;
 
  
   .csm-img{
-    width: 163px;
-    height: 220px;
+    width:  11.9vw;
+    height: 16.1vw;
   }
 
   .csm-back{
-    width: 163px;
-    height: 220px;
+    width:  11.9vw;
+    height: 16.1vw;
     object-fit: cover;
-    margin-bottom: -50px;
+    margin-bottom: -3.6vw;
   }
   .buttons-1{
-    width: 1437px;
-    height: 20px;
-    margin-bottom: 20px;
-    margin-left:270px;
+    max-width: 105vw;
+    max-height: 1.4vw;
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: 0.3vw;
+    margin-bottom: 2.5vw;
+    margin-left:19.7vw;
+
+    
     }
 
 .onepiece-button{
 
-    width: 163px;
-    height: 32px; 
-    background-color: rgb(255 91 0);
+    width: 11.9vw;
+    height: 2.3vw; 
     color: black;
     border-style: solid;
-    border-radius: 7px;
-    border-width: 2px;
-    font-size: 16px;
+    border-radius: 0.5vw;
+    border-width: 0.14vw;
+    font-size: 1.17vw;
     font-weight: bold;
     cursor: pointer;
-    padding-top: 2px;
+    padding-top: 0.14vw;
     transition:.3s;
+    background-color: rgb(255 91 0);
 }
 .onepiece-button:hover{
   opacity: 0.6;
 }
         
          .bluelock-button{
-   margin-left: 75px;
-     width: 163px;
-    height: 32px; 
+   margin-left: 5.49vw;
+   width: 11.9vw;
+   height: 2.3vw; 
+   color: black;
+   border-style: solid;
+   border-radius: 0.5vw;
+   border-width: 0.14vw;
+   font-size: 1.17vw;
+   font-weight: bold;
+   cursor: pointer;
+   padding-top: 0.14vw;
+    transition:.3s;    
     background-color: rgb(0, 119, 255);
-border-style: solid;
-border-radius: 7px;
-  font-size: 16px;
- font-weight: bold;
- cursor: pointer;
- padding-top: 2px;
-             transition:.3s;    
-        }
+  }
         .bluelock-button:hover{
             opacity: 0.6;
           }
         .opm-button{
-            margin-left: 75px;
-            width: 163px;
-            height: 32px; 
-            background-color: rgb(165, 150, 17);
-            color: black;
-            border-style: solid;
-            border-radius: 7px;
-            border-width: 2px;
-            font-size: 16px;
-            font-weight: bold;
-            cursor: pointer;
-            padding-top: 2px;
+          margin-left: 5.49vw;
+          width: 11.9vw;
+          height: 2.3vw; 
+          color: black;
+          border-style: solid;
+          border-radius: 0.5vw;
+          border-width: 0.14vw;
+          font-size: 1.17vw;
+          font-weight: bold;
+          cursor: pointer;
+          padding-top: 0.14vw;
             transition:.3s; 
+            background-color: rgb(165, 150, 17);
            
         }
         .opm-button:hover{
             opacity: 0.6;
           }
         .csm-button{
-            margin-left: 75px;
-            width: 163px;
-            height: 32px; 
-            background-color: rgb(124, 14, 14);
-            color: black;
-            border-style: solid;
-            border-radius: 7px;
-            border-width: 2px;
-            font-size: 16px;
-            font-weight: bold;
-            cursor: pointer;
-            padding-top: 2px;
+          margin-left: 5.49vw;
+          width: 11.9vw;
+          height: 2.3vw; 
+          color: black;
+          border-style: solid;
+          border-radius: 0.5vw;
+          border-width: 0.14vw;
+          font-size: 1.17vw;
+          font-weight: bold;
+          cursor: pointer;
+          padding-top: 0.14vw;
             transition:.3s; 
+            background-color: rgb(124, 14, 14);
         }
         .csm-button:hover{
             opacity: 0.6;
@@ -558,27 +571,26 @@ border-radius: 7px;
 
 
 .flip-box-jjk {
-  margin-left:270px;
+  margin-left:19.7vw;
   background-color: transparent;
-  width: 163px;
-  height: 220px;
+  width:  11.9vw;
+  height: 16.1vw;
   border-width: 2px solid #f1f1f1;
   border-color: gray;
-  margin-top: 20px;
+  margin-top: 0.1vw;
   display: inline-block;
-  perspective: 1000px;
+  perspective: 73vw;
   box-shadow: 0 0  6px rgba(243, 61, 116, 0.952);
 }
 
 .flip-box-inner-jjk {
   position: relative;
-  width: 100%;
-  height: 100%;
+   
   text-align: center;
-  transition: transform .8s;
+  transition: transform 0.8s;
   transform-style: preserve-3d;
-   width: 163px;
-  height: 220px;
+  width:  11.9vw;
+  height: 16.1vw;
 }
 
 .flip-box-jjk:hover .flip-box-inner-jjk {
@@ -605,40 +617,39 @@ border-radius: 7px;
 }
 
 .jjk-img{
-  width: 163px;
-  height: 220px;
+  width:  11.9vw;
+  height: 16.1vw;
 }
 .jjk-back{
-  width: 163px;
-  height: 220px;
+  width:  11.9vw;
+  height: 16.1vw;
   object-fit: cover;
-  margin-bottom: -50px;
+  margin-bottom: -3.6vw;
 }
 
 
 
 .flip-box-solo {
- margin-left: 75px;
+  margin-left:5.49vw;
   background-color: transparent;
-  width: 163px;
-  height: 220px;
+  width:  11.9vw;
+  height: 16.1vw;
   border-width: 2px solid #f1f1f1;
   border-color: gray;
-  margin-top: 20px;
+  margin-top: 0.1vw;
   display: inline-block;
-  perspective: 1000px;
+  perspective: 73vw;
   box-shadow: 0 0  6px rgba(136, 4, 189, 0.952);
 }
 
 .flip-box-inner-solo {
   position: relative;
-  width: 100%;
-  height: 100%;
+   
   text-align: center;
   transition: transform 0.8s;
   transform-style: preserve-3d;
-   width: 163px;
-  height: 220px;
+  width:  11.9vw;
+  height: 16.1vw;
 }
 
 .flip-box-solo:hover .flip-box-inner-solo {
@@ -665,39 +676,38 @@ border-radius: 7px;
 }
 
 .solo-img{
-  width: 163px;
-  height: 220px;
+  width:  11.9vw;
+  height: 16.1vw;
 }
 
 .solo-back{
-  width: 163px;
-  height: 220px;
-
-  margin-bottom: -50px;
+  width:  11.9vw;
+  height: 16.1vw;
+  object-fit: cover;
+  margin-bottom: -3.6vw;
 }
 
 .flip-box-mashle {
-  margin-left: 75px;
-   background-color: transparent;
-   width: 163px;
-   height: 220px;
-   border-width: 2px solid #f1f1f1;
-   border-color: gray;
-   margin-top: 20px;
-   display: inline-block;
-   perspective: 1000px;
+  margin-left:5.49vw;
+  background-color: transparent;
+  width:  11.9vw;
+  height: 16.1vw;
+  border-width: 2px solid #f1f1f1;
+  border-color: gray;
+  margin-top: 0.1vw;
+  display: inline-block;
+  perspective: 73vw;
    box-shadow: 0 0  6px rgba(156, 158, 6, 0.952);
  }
  
  .flip-box-inner-mashle {
-   position: relative;
-   width: 100%;
-   height: 100%;
-   text-align: center;
-   transition: transform 0.8s;
-   transform-style: preserve-3d;
-    width: 163px;
-   height: 220px;
+  position: relative;
+   
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+  width:  11.9vw;
+  height: 16.1vw;
  }
  
  .flip-box-mashle:hover .flip-box-inner-mashle {
@@ -724,40 +734,39 @@ border-radius: 7px;
  }
  
  .mashle-img{
-   width: 163px;
-   height: 220px;
+  width:  11.9vw;
+  height: 16.1vw;
  }
  .mashle-back{
-  width: 163px;
-  height: 220px;
+  width:  11.9vw;
+  height: 16.1vw;
   object-fit: cover;
-  margin-bottom: -50px;
+  margin-bottom: -3.6vw;
 }
 
 
  .flip-box-naruto {
   
-  margin-left: 75px;
-   background-color: transparent;
-   width: 163px;
-   height: 220px;
-   border-width: 2px solid #f1f1f1;
-   border-color: gray;
-   margin-top: 20px;
-   display: inline-block;
-   perspective: 1000px;
+  margin-left:5.49vw;
+  background-color: transparent;
+  width:  11.9vw;
+  height: 16.1vw;
+  border-width: 2px solid #f1f1f1;
+  border-color: gray;
+  margin-top: 0.1vw;
+  display: inline-block;
+  perspective: 73vw;
    box-shadow: 0 0  6px rgba(255, 175, 1, 0.952);
  }
  
  .flip-box-inner-naruto {
-   position: relative;
-   width: 100%;
-   height: 100%;
-   text-align: center;
-   transition: transform 0.8s;
-   transform-style: preserve-3d;
-    width: 163px;
-   height: 220px;
+  position: relative;
+   
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+  width:  11.9vw;
+  height: 16.1vw;
  }
  
  .flip-box-naruto:hover .flip-box-inner-naruto {
@@ -784,94 +793,98 @@ border-radius: 7px;
  }
  
  .naruto-img{
-   width: 163px;
-   height: 220px;
+  width:  11.9vw;
+  height: 16.1vw;
  }
  .naruto-back{
-  width: 163px;
-  height: 220px;
- 
-  margin-bottom: -50px;
+  width:  11.9vw;
+  height: 16.1vw;
+  object-fit: cover;
+  margin-bottom: -3.6vw;
 }
 
 
 
 
 .buttons-2{
-    width: 1437px;
-height: 20px;
-margin-left:270px;
+  width: 105vw;
+  height: 1.4vw;
+  margin-top: 0.3vw;
+  margin-left:19.7vw;
+  max-height: 100%;
+  max-width: 100%;
 }
 .jjk-button{
 
-        width: 163px;
-        height: 32px; 
-        background-color: rgb(250, 53, 70);
-        color: black;
-        border-style: solid;
-        border-radius: 7px;
-        border-width: 2px;
-        font-size: 16px;
-        font-weight: bold;
-        cursor: pointer;
-        padding-top: 2px;
+  
+  width: 11.9vw;
+  height: 2.3vw; 
+  color: black;
+  border-style: solid;
+  border-radius: 0.5vw;
+  border-width: 0.14vw;
+  font-size: 1.17vw;
+  font-weight: bold;
+  cursor: pointer;
+  padding-top: 0.14vw;
         transition:.3s;
+        background-color: rgb(250, 53, 70);
 
     }
     .jjk-button:hover{
         opacity: 0.6;
       }
     .solo-button{
-        margin-left: 75px;
-        width: 163px;
-        height: 32px; 
-        background-color: rgb(102, 25, 138);
-        color: black;
-        border-style: solid;
-        border-radius: 7px;
-        border-width: 2px;
-        font-size: 16px;
-        font-weight: bold;
-        cursor: pointer;
-        padding-top: 2px;
+      margin-left: 5.49vw;
+      width: 11.9vw;
+      height: 2.3vw; 
+      color: black;
+      border-style: solid;
+      border-radius: 0.5vw;
+      border-width: 0.14vw;
+      font-size: 1.17vw;
+      font-weight: bold;
+      cursor: pointer;
+      padding-top: 0.14vw;
         transition:.3s;    
+        background-color: rgb(102, 25, 138);
     }
     .solo-button:hover{
         opacity: 0.6;
       }
     .mashle-button{
-        margin-left: 75px;
-        width: 163px;
-        height: 45px; 
-        background-color: rgb(110, 112, 4);
-        color: black;
-        border-style: solid;
-        border-radius: 7px;
-        border-width: 2px;
-        font-size: 16px;
-        font-weight: bold;
-        cursor: pointer;
-        padding-top: 2px;
+      margin-left: 5.49vw;
+      width: 11.9vw;
+      height: 2.8vw; 
+      color: black;
+      border-style: solid;
+      border-radius: 0.5vw;
+      border-width: 0.14vw;
+      font-size: 1.17vw;
+      font-weight: bold;
+      cursor: pointer;
+      padding-top: 0.14vw;
         transition:.3s; 
+        background-color: rgb(110, 112, 4);
        
     }
     .mashle-button:hover{
         opacity: 0.6;
       }
     .naruto-button{
-        margin-left: 75px;
-        width: 163px;
-        height: 32px; 
-        background-color: rgb(250, 164, 5);
-        color: black;
-        border-style: solid;
-        border-radius: 7px;
-        border-width: 2px;
-        font-size: 16px;
-        font-weight: bold;
-        cursor: pointer;
-        padding-top: 2px;
+      margin-left: 5.49vw;
+      width: 11.9vw;
+      height: 2.3vw; 
+      color: black;
+      border-style: solid;
+      border-radius: 0.5vw;
+      border-width: 0.14vw;
+      font-size: 1.17vw;
+      font-weight: bold;
+      cursor: pointer;
+      padding-top: 0.14vw;
         transition:.3s; 
+        background-color: rgb(250, 164, 5);
     }
     .naruto-button:hover{
         opacity: 0.6;
